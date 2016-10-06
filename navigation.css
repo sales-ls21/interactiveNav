@@ -1,0 +1,27 @@
+nav {
+	border: 10px solid black;
+	border-radius: 10px;
+	background-color: DarkCyan;
+	text-align: center;
+	font-size: 2em;
+}
+li {
+	list-style-type: none;
+	display: inline;
+}
+a{
+	text-decoration: none;
+	padding-right: 10px;
+}
+a:hover{
+	color: red;
+	background-color: blue;
+}
+
+/*Ask about this one tomorrow!!!*/
+a:visited{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+
